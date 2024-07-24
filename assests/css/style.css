@@ -13,6 +13,7 @@ header .navbar-brand img {
 .navbar-nav .nav-link {
     padding-top: 0;
     padding-bottom: 0;
+    font-size: 1.2rem;
 }
 
 /* Hero Section */
@@ -29,4 +30,15 @@ header .navbar-brand img {
     color: #333;     
     margin: 0;      
     font-family: 'Roboto', sans-serif; 
+}
+
+#menu ul {
+    list-style-type: none; /* Removes default bullets */
+    padding: 0;            /* Removes default padding */
+}
+
+#menu ul li {
+    margin-bottom: 10px; /* Space between list items */
+    font-size: 1.1rem;   /* Adjust font size as needed */
+    line-height: 1.4;    /* Adjust line height for readability */
 }
