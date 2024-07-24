@@ -7,10 +7,26 @@ header {
 }
 
 header .navbar-brand img {
-    max-height: 100px; 
+    max-height: 150px; 
 }
 
 .navbar-nav .nav-link {
     padding-top: 0;
     padding-bottom: 0;
+}
+
+/* Hero Section */
+#hero {
+    padding-top: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#hero h1 {
+    font-size: 3rem; /* Adjust this value as needed for your design */
+    color: #333;     /* Example text color, change as needed */
+    margin: 0;      /* Removes default margin */
+    font-family: 'Roboto', sans-serif; /* Uses the imported Roboto font */
 }
