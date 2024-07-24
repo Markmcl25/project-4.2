@@ -7,7 +7,7 @@ header {
 }
 
 header .navbar-brand img {
-    max-height: 150px; 
+    max-height: 180px; 
 }
 
 .navbar-nav .nav-link {
@@ -23,6 +23,10 @@ header .navbar-brand img {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
+
+body {
+    background: url('assests/images/italy-image-1.jpg')
 }
 
 #hero h1 {
@@ -43,3 +47,4 @@ header .navbar-brand img {
     font-size: 1.1rem;   
     line-height: 1.4;    
 }
+
