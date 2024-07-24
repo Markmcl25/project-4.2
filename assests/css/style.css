@@ -25,8 +25,8 @@ header .navbar-brand img {
 }
 
 #hero h1 {
-    font-size: 3rem; /* Adjust this value as needed for your design */
-    color: #333;     /* Example text color, change as needed */
-    margin: 0;      /* Removes default margin */
-    font-family: 'Roboto', sans-serif; /* Uses the imported Roboto font */
+    font-size: 3rem; 
+    color: #333;     
+    margin: 0;      
+    font-family: 'Roboto', sans-serif; 
 }
