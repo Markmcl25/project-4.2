@@ -33,12 +33,13 @@ header .navbar-brand img {
 }
 
 #menu ul {
-    list-style-type: none; /* Removes default bullets */
-    padding: 0;            /* Removes default padding */
+    list-style-type: none; 
+    padding: 0;            
 }
 
 #menu ul li {
-    margin-bottom: 10px; /* Space between list items */
-    font-size: 1.1rem;   /* Adjust font size as needed */
-    line-height: 1.4;    /* Adjust line height for readability */
+    padding-top: 10px;
+    margin-bottom: 10px; 
+    font-size: 1.1rem;   
+    line-height: 1.4;    
 }
