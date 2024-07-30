@@ -192,5 +192,9 @@ body {
     .social-links a {
         font-size: 1.2rem;
     }
+
+    .hero-text {
+        font-size: 15px; /* Adjust size as needed */
+      }
 }
 
